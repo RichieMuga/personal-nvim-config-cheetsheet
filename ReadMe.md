@@ -35,4 +35,3 @@ Here's the recommended process for resolving it: First, hit o for "open read-onl
 #### No, some of my changes are missing: OK, don't panic. Quit out of vim, and start it again. This time, hit r for "recover." This will show you the version of the file from the interrupted session. If that's (closer to) the version you want to keep, save it, then follow the steps above to clean up the swap file.
 
 #### How do I avoid the above issue coming up next time? Make sure you exit nvim cleanly. Don't just hit the "X" button on your terminal. Also, don't close your laptop lid while nvim is open (more generally, putting your laptop to sleep while connected to myth could lead to other problems, because it generally turns off your internet connection).
-:
